@@ -6,7 +6,7 @@ use ProgramadorJunior\Ramais\Controller\RamaisListController;
 
 require_once __DIR__ . '/../vendor/autoload.php';
 
-$conn = new PDO('mysql:host=localhost;dbname=painel_monitoramento','root','');
+$conn = new PDO();
 $ramaisRepository = new RamaisRepository($conn);
 $ramaisListController = new RamaisListController($ramaisRepository);
 $ramaisAddController = new RamaisAddController($ramaisRepository);
