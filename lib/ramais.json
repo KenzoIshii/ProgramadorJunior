@@ -1,0 +1,51 @@
+{
+  "filas": [
+    {
+      "Name/username": "7000/7000",
+      "Host": "181.219.125.7",
+      "Dyn": "D",
+      "Nat": "N",
+      "ACL": "42367",
+      "Port": "OK (33 ms)"
+    },
+    {
+      "Name/username": "7001/7001",
+      "Host": "181.219.125.7",
+      "Dyn": "D",
+      "Nat": "N",
+      "ACL": "42368",
+      "Port": "OK (20 ms)"
+    },
+    {
+      "Name/username": "7004/7002",
+      "Host": "(Unspecified)",
+      "Dyn": "D",
+      "Nat": "N",
+      "ACL": "0",
+      "Port": "UNKNOWN"
+    },
+    {
+      "Name/username": "7003/7003",
+      "Host": "(Unspecified)",
+      "Dyn": "D",
+      "Nat": "N",
+      "ACL": "0",
+      "Port": "UNKNOWN"
+    },
+    {
+      "Name/username": "7002/7004",
+      "Host": "181.219.125.7",
+      "Dyn": "D",
+      "Nat": "N",
+      "ACL": "42369",
+      "Port": "OK (15 ms)"
+    }
+  ],
+  "filas_count": {
+    "total": 5,
+    "monitored": {
+      "online": 1,
+      "offline": 4
+    }
+  }
+}

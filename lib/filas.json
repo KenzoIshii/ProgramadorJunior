@@ -1,0 +1,57 @@
+{
+  "queue_name": "gcallcenter-SUPORTE",
+  "calls_info": {
+    "calls": 0,
+    "max_calls": 20,
+    "strategy": "ringall",
+    "hold_time": "1s",
+    "W": 0,
+    "C": 3,
+    "A": 0,
+    "SL": "0.0%",
+    "within": "0s"
+  },
+  "callcenter": [
+    {
+      "extension": "SIP/7000",
+      "penalty": 1,
+      "status": "In use",
+      "calls_taken": 0,
+      "last_call_time": "N/A",
+      "name": "Chaves"
+    },
+    {
+      "extension": "SIP/7001",
+      "penalty": 1,
+      "status": "Ring",
+      "calls_taken": 0,
+      "last_call_time": "N/A",
+      "name": "Kiko"
+    },
+    {
+      "extension": "SIP/7002",
+      "penalty": 1,
+      "status": "Unavailable",
+      "calls_taken": 3,
+      "last_call_time": "1800 secs ago",
+      "name": "Chiquinha"
+    },
+    {
+      "extension": "SIP/7003",
+      "penalty": 1,
+      "status": "Unavailable",
+      "calls_taken": 48,
+      "last_call_time": "15447 secs ago",
+      "name": "Nhonho"
+    },
+    {
+      "extension": "SIP/7004",
+      "penalty": 1,
+      "status": "Paused",
+      "calls_taken": 0,
+      "last_call_time": "N/A",
+      "name": "Godines"
+    }
+  ],
+  "callers": "No Callers"
+}

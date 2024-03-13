@@ -1,0 +1,5 @@
+1°) Atualizar PHP para versão 8.2.
+2°) Instalar Composer.
+3°) Inserir caminho do banco de dados no arquivo programador_junior\lib\libFile.php.
+4°) Rodar scripts do arquivo de dump de dados no local programador_junior\README\dumpDados.sql.
+5°) Caso ocorra um erro no javascript altera caminho da url na no arquivo programador_junior\js\monitoramento.js.

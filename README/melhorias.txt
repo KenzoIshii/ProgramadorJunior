@@ -1,0 +1,5 @@
+1°) Atualização para o PHP 8, utilizando novas medidas, trazendo mais segurança e maleabilidade no código;
+2°) Utilização do Composer, fazendo com que seja mais simples utilizar dependências e instanciar classes;
+3°) Utilização do PDO, trazendo segurança para a aplicação, se defendendo de ataques SQLInjection;
+4°) Utilização do padrão MVC, trazendo mais organização ao código;
+5°) Mudar de arquivos txt para arquivos json, facilitando a leitura dos mesmos;

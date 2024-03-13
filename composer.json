@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "ProgramadorJunior\\Ramais\\": "lib/"
+    }
+  },
+  "require": {
+    "ext-pdo": "*",
+    "ext-mbstring": "*"
+  }
+}
